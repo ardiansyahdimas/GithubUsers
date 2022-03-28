@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">GithubUsers</string>
+    <string name="users_name">Nama User</string>
+    <string name="username">Username Github</string>
+    <string name="follow">Follow</string>
+    <string name="following">Following</string>
+    <string name="repositories">Repositories</string>
+    <string name="followers">Followers</string>
+    <string name="location">Location</string>
+    <string name="setting">Setting</string>
+    <string name="favorite">favorite</string>
+    <string name="search">search</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="github_logo">github logo</string>
+    <string name="github_text">Where the world builds software</string>
+    <string name="avatar">avatar</string>
+    <string-array name="data_name">
+        <item>Tom Payne</item>
+        <item>Asim Aslam</item>>
+        <item>Jake Archibald</item>>
+        <item>Jan De Dobbeleer</item>>
+        <item>Iskander Alex Sharipov</item>>
+        <item>Jeremy Long</item>>
+        <item>Trask Stalnaker</item>>
+        <item>Robert Mosolgo</item>>
+        <item>Daniel Roe</item>>
+        <item>Arvid Norberg</item>>
+        <item>Anthony Sottile</item>>
+    </string-array>
+    <string-array name="data_avatar">
+        <item>@drawable/tompayne</item>
+        <item>@drawable/asim_aslam</item>>
+        <item>@drawable/jake_archibald</item>>
+        <item>@drawable/jan_de_dobbeleer</item>>
+        <item>@drawable/iskander_alex_sharipov</item>>
+        <item>@drawable/jeremy_long</item>>
+        <item>@drawable/trask_stalnaker</item>>
+        <item>@drawable/robert_mosolgo</item>>
+        <item>@drawable/daniel_roe</item>>
+        <item>@drawable/arvid_norberg</item>>
+        <item>@drawable/anthony_sottile</item>>
+    </string-array>
+    <string-array name="data_username">
+        <item>twpayne</item>
+        <item>asim</item>>
+        <item>jakearchibald</item>>
+        <item>JanDeDobbeleer</item>>
+        <item>quasilyte</item>>
+        <item>jeremylong</item>>
+        <item>trask</item>>
+        <item>rmosolgo</item>>
+        <item>danielroe</item>>
+        <item>arvidn</item>>
+        <item>asottile</item>>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://avatars.githubusercontent.com/u/6942?v=4</item> <!-- Tom Payne -->
+        <item>https://avatars.githubusercontent.com/u/17530?v=4</item> <!-- Asim Aslam -->
+        <item>https://avatars.githubusercontent.com/u/93594?v=4</item> <!-- Jake Archibald -->
+        <item>https://avatars.githubusercontent.com/u/2492783?v=4</item> <!-- Jan De Dobbeleer -->
+        <item>https://avatars.githubusercontent.com/u/6286655?v=4</item> <!-- Iskander Alex Sharipov  -->
+        <item>https://avatars.githubusercontent.com/u/862914?v=4</item> <!-- Jeremy Long -->
+        <item>https://avatars.githubusercontent.com/u/218610?v=4</item> <!-- Trask Stalnaker -->
+        <item>https://avatars.githubusercontent.com/u/2231765?v=4</item> <!-- Robert Mosolgo -->
+        <item>https://avatars.githubusercontent.com/u/28706372?v=4</item> <!-- Daniel Roe -->
+        <item>https://avatars.githubusercontent.com/u/661450?v=4</item> <!-- Arvid Norberg -->
+        <item>https://avatars.githubusercontent.com/u/1810591?v=4</item> <!-- Anthony Sottile -->
+    </string-array>
+    <string-array name="data_email">
+        <item>twpayne@gmail.com</item>
+        <item>asim@aslam.me</item>>
+        <item>jaffathecake@gmail.com</item>>
+        <item>https://ohmyposh.dev</item>>
+        <item>quasilyte@gmail.com</item>>
+        <item>jeremy.long@gmail.com</item>>
+        <item>trask.stalnaker@gmail.com</item>>
+        <item>rdmosolgo@gmail.com</item>>
+        <item>daniel@roe.dev</item>>
+        <item>arvid@libtorrent.org</item>>
+        <item>pytest-dev@python.org</item>>
+    </string-array>
+    <string-array name="data_repo">
+        <item>114</item> <!-- Tom Payne -->
+        <item>28</item> <!-- Asim Aslam -->
+        <item>213</item> <!-- Jake Archibald -->
+        <item>72</item> <!-- Jan De Dobbeleer -->
+        <item>125</item> <!-- Iskander Alex Sharipov  -->
+        <item>34</item> <!-- Jeremy Long -->
+        <item>135</item> <!-- Trask Stalnaker -->
+        <item>122</item> <!-- Robert Mosolgo -->
+        <item>129</item> <!-- Daniel Roe -->
+        <item>50</item> <!-- Arvid Norberg -->
+        <item>91</item> <!-- Anthony Sottile -->
+    </string-array>
+    <string-array name="data_followers">
+        <item>1k</item> <!-- Tom Payne -->
+        <item>1.7k</item> <!-- Asim Aslam -->
+        <item>8.5k</item> <!-- Jake Archibald -->
+        <item>914</item> <!-- Jan De Dobbeleer -->
+        <item>460</item> <!-- Iskander Alex Sharipov  -->
+        <item>536</item> <!-- Jeremy Long -->
+        <item>254</item> <!-- Trask Stalnaker -->
+        <item>2.2k</item> <!-- Robert Mosolgo -->
+        <item>399</item> <!-- Daniel Roe -->
+        <item>2.6k</item> <!-- Arvid Norberg -->
+        <item>2.4k</item> <!-- Anthony Sottile -->
+    </string-array>
+    <string-array name="data_following">
+        <item>86</item> <!-- Tom Payne -->
+        <item>0</item> <!-- Asim Aslam -->
+        <item>4</item> <!-- Jake Archibald -->
+        <item>9</item> <!-- Jan De Dobbeleer -->
+        <item>56</item> <!-- Iskander Alex Sharipov  -->
+        <item>4</item> <!-- Jeremy Long -->
+        <item>3</item> <!-- Trask Stalnaker -->
+        <item>0</item> <!-- Robert Mosolgo -->
+        <item>91</item> <!-- Daniel Roe -->
+        <item>2</item> <!-- Arvid Norberg -->
+        <item>23</item> <!-- Anthony Sottile -->
+    </string-array>
+    <string-array name="data_location">
+        <item>Pittsburgh, PA, USA</item>
+        <item>New Delhi, India</item>
+        <item>California</item>
+        <item>Sydney, Australia</item>
+        <item>Trondheim, Norway</item>
+        <item>India</item>
+        <item>Kotagede, Yogyakarta, Indonesia</item>
+        <item>Jakarta, Indonesia</item>
+        <item>Bojongsoang - Bandung Jawa Barat</item>
+        <item>Jakarta Indonesia</item>
+        <item>Jakarta Indonesia</item>
+    </string-array>
+</resources>
